@@ -1,0 +1,57 @@
+.home {
+  margin-top: 5%;
+}
+
+.homepage img {
+  height: 100px;
+  width: 100px;
+  margin-left: 45%;
+}
+.text {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5%;
+  width: 30%;
+  margin-left: 35%;
+}
+
+.text h5 {
+  color: #000000;
+}
+.text p {
+  color: #0000ee;
+}
+.homepage input {
+  margin-top: 10%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius: 5px;
+  border-width: 0.5px;
+  border-color: gray;
+  width: 70%;
+  margin-left: 15%;
+}
+.text1 {
+  text-align: right;
+}
+
+.text2 {
+  text-align: left;
+}
+
+.vid {
+  display: flex;
+  justify-content: center;
+  padding-top: 6%;
+}
+
+.mic img {
+  height: 35px;
+  width: 35px;
+}
+
+.mag img {
+  height: 35px;
+  width: 35px;
+}
+
